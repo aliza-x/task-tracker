@@ -122,5 +122,3 @@ npm start               # runs on localhost:3000
 ```
 
 ---
-
-Built with ❤️ for CollEdge Connect Full Stack Development Internship Assignment
